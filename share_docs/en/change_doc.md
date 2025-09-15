@@ -16,4 +16,5 @@ The content may show as below, just correct what you think need to be changed.
 5. Pull request after your finishing editing and add the reason why change it.   
 ![](./../assets/5.png)
 
-We will merge request if ok.
+We will merge request [licheeconsole4a_debug.md](https://github.com/user-attachments/files/22349344/licheeconsole4a_debug.md)
+if ok.
